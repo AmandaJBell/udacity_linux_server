@@ -1,6 +1,6 @@
 # Udacity Linux Server Project
 
-**Final Project for Udacity's Fullstack Nanodegree
+**Final Project for Udacity's Fullstack Nanodegree**
 
 IP Address: 34.216.242.92
 
