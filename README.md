@@ -12,17 +12,11 @@ Full URL: http://ec2-34-216-242-92.us-west-2.compute.amazonaws.com
 Summary of Software Installed
 
 I installed:
-
 PSQL
-
 Apache2 (sudo apt-get install apache2)
-
 mod_wsgi (sudo apt-get install libapache2-mod-wsgi)
-
 Flask
-
 SQLAlchemy
-
 OauthClient2
 
 
